@@ -1,0 +1,4 @@
+---- BMS_SysModeTypedef Matches (3 in 2 files) ----
+BMS_MonitorSysMode in bms_monitor.c (User\Bms\Core) : 	static BMS_SysModeTypedef SysModeBackup = BMS_MODE_NULL;
+bms_type.h (User\Bms\Core) line 55 : }BMS_SysModeTypedef;
+{anonBMS_GlobalParamTypedef} in bms_type.h (User\Bms\Core) : 	BMS_SysModeTypedef SysMode;	// 当前系统处于什么模式

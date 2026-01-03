@@ -1,0 +1,12 @@
+bms\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+bms\list.o: C:\Users\BXJ\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+bms\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+bms\list.o: C:\Users\BXJ\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+bms\list.o: C:\Users\BXJ\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+bms\list.o: ../Core/Inc/FreeRTOSConfig.h
+bms\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+bms\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+bms\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+bms\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+bms\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+bms\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
